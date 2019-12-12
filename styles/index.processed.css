@@ -1,0 +1,99 @@
+body {
+  background: white;
+}
+
+footer {
+  text-align: center;
+  background-color: #404040;
+  color: black;
+  height: 100%;
+}
+
+ul {
+  background: #404040;
+}
+
+nav {
+  background: #404040;
+  width: 100%;
+  height: 100px;
+}
+
+.nav-link {
+  color: #417a32;
+}
+
+a:hover {
+  color: #A67244;
+}
+
+.row {
+  text-align: center;
+  color: #417a32;
+  font-size: 20px;
+}
+
+.column {
+  margin-left: 35%;
+  margin-bottom: 25px;
+}
+
+input {
+  background-color: #a6907cff;
+  color: #417a32;
+  border-radius: 15px;
+  border: 2px solid #417a32;
+  width: 250px;
+  height: 25px;
+}
+
+textarea {
+  background-color: #a6907cff;
+  color: #417a32;
+  border-radius: 15px;
+  border: 2px solid #417a32;
+  width: 250px;
+  height: 150px;
+  padding-right: 1%;
+}
+
+.info {
+  background: transparent;
+}
+
+h3 {
+  text-align: center;
+  color: #a67244ff;
+}
+
+.pu {
+  background-image: url("https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/19-20-Coding/Tubbs/i-k3RxTdF/0/f34b3aae/Th/download-Th.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-image {
+  background-image: url("https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/19-20-Coding/Tubbs/i-p5NKC7s/0/5093643e/M/construction-plans-M.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: local;
+}
+
+p {
+  color: #417a32;
+  font-size: 20px;
+}
+
+.carousel-indicators {
+  color: white;
+  background: transparent;
+}
+
+h2 {
+  text-align: center;
+  color: #A67244;
+}
